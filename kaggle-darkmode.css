@@ -1,3 +1,44 @@
-.darkmode{
-    margin: 5px;
-}
+/* https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld/related?hl=en */
+
+div.Newsfeed_NewsfeedContainer-sc-tbchpp.loKiVK {
+    background-color: #333333;
+  }
+  
+  div.Newsfeed_NewsfeedDismissedText-sc-1trhizt.AeQdy {
+    color: #C3C3C3;
+    
+  }
+  
+  img.index_NewsfeedStoryIcon-sc-19bvlgw.fSUWkD {
+    background-color: #333333;
+  }
+  
+  .smart-list__content div {
+    background-color: #333333;
+  }
+  
+  .smart-list__content div {
+    border-color: #333333;
+  }
+  
+  div.NewsfeedAuthor_AuthorInfoContainer-sc-bpfitr.gOZeDX {
+    color: #F7F7F7;
+  }
+  
+  div.NewsfeedAuthor_AuthorAction-sc-1vl1fe6.hLnwCg {
+    color: #F9F9F9;
+  }
+  
+  div.NewsfeedKernel_KernelHeaderSubtitle-sc-162acz6.bcHXAV {
+    color: #EAEAEA;
+  }
+  
+  div.NewsfeedKernel_KernelMetadata-sc-13wfkkd.jQEvz {
+    color: #F7F7F7;
+  }
+  
+  div.NewsfeedHeader_HeaderUpvotedBy-sc-1epj7xh.gJLfIe {
+    color: #DADADA;
+  }
+  
+  
