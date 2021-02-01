@@ -1,44 +1,85 @@
 /* https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld/related?hl=en */
 
 div.Newsfeed_NewsfeedContainer-sc-tbchpp.loKiVK {
-    background-color: #333333;
-  }
+  background-color: rgb(38, 43, 53);
+}
+
+div.Newsfeed_NewsfeedDismissedText-sc-1trhizt.AeQdy {
+  color: rgb(255, 255, 255);
   
-  div.Newsfeed_NewsfeedDismissedText-sc-1trhizt.AeQdy {
-    color: #C3C3C3;
-    
-  }
-  
-  img.index_NewsfeedStoryIcon-sc-19bvlgw.fSUWkD {
-    background-color: #333333;
-  }
-  
-  .smart-list__content div {
-    background-color: #333333;
-  }
-  
-  .smart-list__content div {
-    border-color: #333333;
-  }
-  
-  div.NewsfeedAuthor_AuthorInfoContainer-sc-bpfitr.gOZeDX {
-    color: #F7F7F7;
-  }
-  
-  div.NewsfeedAuthor_AuthorAction-sc-1vl1fe6.hLnwCg {
-    color: #F9F9F9;
-  }
-  
-  div.NewsfeedKernel_KernelHeaderSubtitle-sc-162acz6.bcHXAV {
-    color: #EAEAEA;
-  }
-  
-  div.NewsfeedKernel_KernelMetadata-sc-13wfkkd.jQEvz {
-    color: #F7F7F7;
-  }
-  
-  div.NewsfeedHeader_HeaderUpvotedBy-sc-1epj7xh.gJLfIe {
-    color: #DADADA;
-  }
-  
-  
+}
+
+img.index_NewsfeedStoryIcon-sc-19bvlgw.fSUWkD {
+  background-color: rgb(38, 43, 53);
+}
+
+.smart-list__content div {
+  background-color: rgb(38, 43, 53);
+}
+
+.smart-list__content div {
+  border-color: rgb(38, 43, 53);
+}
+
+div.NewsfeedAuthor_AuthorInfoContainer-sc-bpfitr.gOZeDX {
+  color: rgb(255, 255, 255);
+}
+
+div.NewsfeedAuthor_AuthorAction-sc-1vl1fe6.hLnwCg {
+  color: rgb(255, 255, 255);
+}
+
+div.NewsfeedKernel_KernelHeaderSubtitle-sc-162acz6.bcHXAV {
+  color: rgb(255, 255, 255);
+}
+
+div.NewsfeedKernel_KernelMetadata-sc-13wfkkd.jQEvz {
+  color: rgb(255, 255, 255);
+}
+
+div.NewsfeedHeader_HeaderUpvotedBy-sc-1epj7xh.gJLfIe {
+  color: rgb(255, 255, 255);
+}
+
+div div div, div div div a, button span, .react-mentions__input{
+  color: rgb(255, 255, 255);
+}
+
+.react-mentions__input::-webkit-input-placeholder {/* Chrome/Opera/Safari/Edge */
+	color: rgb(255, 255, 255);
+}
+
+.react-mentions__input::-ms-input-placeholder { /* Microsoft Edge */
+   color: rgb(255, 255, 255);
+}
+
+.react-mentions__input:-ms-input-placeholder {/* IE 10+ */
+	color: rgb(255, 255, 255);
+}
+
+.react-mentions__input::-moz-placeholder {/* Firefox 19+ */
+	opacity: 1; /*Firefox by default has an opacity object that usually is ideal to reset so it matches webkit*/
+	color: rgb(255, 255, 255);
+}
+
+.react-mentions__input:-moz-placeholder {/* Firefox 18- */
+	opacity: 1; /*Firefox by default has an opacity object that usually is ideal to reset so it matches webkit*/
+	color: rgb(255, 255, 255);
+}
+
+.react-mentions__input::placeholder {
+	color: rgb(255, 255, 255);
+}
+
+div a li {
+  background-color: rgb(32, 33, 36);
+}
+
+#site-container div div{
+  background-color: rgb(32, 33, 36);
+  border-color: rgb(32, 33, 36);
+}
+
+div div .google-material-icons {
+  color: rgb(95, 99, 104);
+}
