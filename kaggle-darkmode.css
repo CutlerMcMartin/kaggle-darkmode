@@ -45,35 +45,23 @@ div div div, div div div a, button span, .react-mentions__input{
   color: rgb(255, 255, 255);
 }
 
-.react-mentions__input::-webkit-input-placeholder {/* Chrome/Opera/Safari/Edge */
-	color: rgb(255, 255, 255);
-}
-
-.react-mentions__input::-ms-input-placeholder { /* Microsoft Edge */
-   color: rgb(255, 255, 255);
-}
-
-.react-mentions__input:-ms-input-placeholder {/* IE 10+ */
-	color: rgb(255, 255, 255);
-}
-
-.react-mentions__input::-moz-placeholder {/* Firefox 19+ */
-	opacity: 1; /*Firefox by default has an opacity object that usually is ideal to reset so it matches webkit*/
-	color: rgb(255, 255, 255);
-}
-
-.react-mentions__input:-moz-placeholder {/* Firefox 18- */
-	opacity: 1; /*Firefox by default has an opacity object that usually is ideal to reset so it matches webkit*/
-	color: rgb(255, 255, 255);
-}
-
 .react-mentions__input::placeholder {
 	color: rgb(255, 255, 255);
 }
 
-div a li {
+div a li, #site-container .sc-oTpcS > .sc-pIvzE {
   background-color: rgb(32, 33, 36);
 }
+
+/* Side-bar specific */
+#site-container .sc-oTpcS > .sc-pIvzE, #site-container .sc-pQQAz, #site-container .sc-pZlBu, #site-container .sc-pRPKI > div, li.sc-pBzUF, #site-container .sc-pCPhY, #site-container .sc-oTpcS  {
+  background-color: rgb(32, 33, 36);
+}
+
+#site-container .sc-oTpcS {
+  border-color: rgb(32, 33, 36);
+}
+
 
 #site-container div div{
   background-color: rgb(38, 43, 53);
