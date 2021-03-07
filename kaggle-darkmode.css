@@ -54,7 +54,7 @@ div a li, #site-container .sc-oTpcS > .sc-pIvzE {
 }
 
 /* Side-bar specific */
-#site-container .sc-oTpcS > .sc-pIvzE, #site-container .sc-pQQAz, #site-container .sc-pZlBu, #site-container .sc-pRPKI > div, li.sc-pBzUF, #site-container .sc-pCPhY, #site-container .sc-oTpcS  {
+#site-container :is(.sc-oTpcS > .sc-pIvzE, .sc-pQQAz, .sc-pZlBu, .sc-pRPKI > div, li.sc-pBzUF, .sc-pCPhY, .sc-oTpcS) {
   background-color: rgb(32, 33, 36);
 }
 
